@@ -24,13 +24,13 @@ Projetos e experimentos com foco em:
 
 ## 📚 Formação & Certificações
 
-- 🎓 Pós-graduação em **Engenharia de Software** e em **Cybersegurança** (em andamento)
-- 🎓 Graduação em **Publicidade e Propaganda**
-- 💡 Certificações em:
-  - IA Generativa (Microsoft, IBM, Google)
-  - Python, GitHub, Linux
-  - Cloud Computing (AWS, Azure)
-  - Segurança da Informação
+- 🎓 Pós-graduação em **Engenharia de Software** e em **Cybersegurança** (em andamento)  
+- 🎓 Graduação em **Publicidade e Propaganda**  
+- 💡 Certificações em:  
+  - IA Generativa (Microsoft, IBM, Google)  
+  - Python, GitHub, Linux  
+  - Cloud Computing (AWS, Azure)  
+  - Segurança da Informação  
 
 ---
 
@@ -50,7 +50,6 @@ Projetos e experimentos com foco em:
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| 🧱 Breakout Simplão | Jogo clássico recriado com barra, bola e blocos | Python, pygame |
 | 💳 Sistema Bancário com Python | Simulação de contas, transações e autenticação | Python, POO |
 | 💬 Chatbot com IA | Interação com OpenAI API e lógica de resposta | Python, Flask |
 | 📈 Análise de Dados | Visualização e limpeza de dados bancários | Pandas, Matplotlib |
@@ -64,24 +63,24 @@ Se você curte IA aplicada, produtividade com tecnologia e futuro digital, acess
 
 📚 **[beacons.ai/ianapratica](https://beacons.ai/ianapratica)**
 
-Inclui títulos como:
-- *Inteligência Artificial na Prática*
-- *Prompt Master*
-- *O Futuro é Agora*
+Inclui títulos como:  
+- *Inteligência Artificial na Prática*  
+- *Prompt Master*  
+- *O Futuro é Agora*  
 
 ---
 
 ## 📬 Contato
 
-- 🔗 LinkedIn: [linkedin.com/in/lucas-azenha-56448a35b](https://www.linkedin.com/in/lucas-azenha-56448a35b)
-- 💌 Email: lucas.azenha.ia@gmail.com
-- 🧠 GitHub: [github.com/azenhasoft](https://github.com/azenhasoft)
+- 🔗 LinkedIn: [linkedin.com/in/lucas-azenha-56448a35b](https://www.linkedin.com/in/lucas-azenha-56448a35b)  
+- 💌 Email: lucas.azenha.ia@gmail.com  
+- 🧠 GitHub: [github.com/azenhasoft](https://github.com/azenhasoft)  
 
 ---
 
 ## ✨ Frase que me move
 
-> “Sou apenas um homem simples tentando abrir caminho no universo."
+> “Sou apenas um homem simples tentando abrir caminho no universo."  
 
 ---
 
