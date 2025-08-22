@@ -74,14 +74,14 @@ Inclui títulos como:
 ## 📬 Contato
 
 - 🔗 LinkedIn: [linkedin.com/in/lucas-azenha-56448a35b](https://www.linkedin.com/in/lucas-azenha-56448a35b)
-- 💌 Email: lucas.azenha.dev@gmail.com
+- 💌 Email: lucas.azenha.ia@gmail.com
 - 🧠 GitHub: [github.com/azenhasoft](https://github.com/azenhasoft)
 
 ---
 
 ## ✨ Frase que me move
 
-> “Não fique só na compreensão de IA: domine-a totalmente.” – Lucas Azenha
+> “Sou apenas um homem simples tentando abrir caminho no universo."
 
 ---
 
